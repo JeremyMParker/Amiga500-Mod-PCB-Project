@@ -1,0 +1,35 @@
+"Source:","C:\Users\Jeremy\Documents\PCB Designs\Amiga500 Mod PCB Rev A.kicad_sch"
+"Date:","5/14/2022 9:10:37 PM"
+"Tool:","Eeschema (6.0.2)"
+"Generator:","C:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","11"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","MANUFACTURER","MAXIMUM_PACKAGE_HEIGHT","PARTREV","STANDARD"
+"","","FID1","Fiducial","Mechanical:Fiducial","Fiducial:Fiducial_0.5mm_Mask1.5mm","~","","","",""
+"","","J1","DC04S019JA1R600","JP Symbol Library:DC04S019JA1R600_2","SnapEDA Library:JAE_DC04S019JA1R600","","JAE","6.3 mm","1","Manufacturer Recommendations"
+"","","J2","2013978-1","2013978-1:2013978-1","SnapEDA Library:TE_2013978-1","","TE Connectivity","3.45mm","B1","Manufacturer recommendations"
+"","","J3","Conn_01x02_Male","Connector:Conn_01x02_Male","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~","","","",""
+"","","J4","Conn_01x04_Male","Connector:Conn_01x04_Male","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~","","","",""
+"","","J5","Conn_01x04_Male","Connector:Conn_01x04_Male","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~","","","",""
+"","","J6","Screw_Terminal_01x04","Connector:Screw_Terminal_01x04","JP Library:Keystone 4-40 screw terminal","~","","","",""
+"","","J7","Screw_Terminal_01x04","Connector:Screw_Terminal_01x04","JP Library:Keystone 4-40 screw terminal","~","","","",""
+"","","SW1","SW_Push","Switch:SW_Push","JP Library:SPST 800BWSP9SM6RE","~","","","",""
+"","","SW2","SW_SP3T","Switch:SW_SP3T","JP Library:SP3T CL-SB-13B-11T","~","","","",""
+"","","SW3","SW_DPDT_x2","Switch:SW_DPDT_x2","JP Library:DPDT CL-SB-22B-12T","~","","","",""
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","MANUFACTURER","MAXIMUM_PACKAGE_HEIGHT","PARTREV","STANDARD"
+"1","1","FID1","Fiducial","Mechanical:Fiducial","Fiducial:Fiducial_0.5mm_Mask1.5mm","~","","","",""
+"2","1","J1","DC04S019JA1R600","JP Symbol Library:DC04S019JA1R600_2","SnapEDA Library:JAE_DC04S019JA1R600","","JAE","6.3 mm","1","Manufacturer Recommendations"
+"3","1","J2","2013978-1","2013978-1:2013978-1","SnapEDA Library:TE_2013978-1","","TE Connectivity","3.45mm","B1","Manufacturer recommendations"
+"4","1","J3","Conn_01x02_Male","Connector:Conn_01x02_Male","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~","","","",""
+"5","2","J4, J5","Conn_01x04_Male","Connector:Conn_01x04_Male","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~","","","",""
+"6","2","J6, J7","Screw_Terminal_01x04","Connector:Screw_Terminal_01x04","JP Library:Keystone 4-40 screw terminal","~","","","",""
+"7","1","SW1","SW_Push","Switch:SW_Push","JP Library:SPST 800BWSP9SM6RE","~","","","",""
+"8","1","SW2","SW_SP3T","Switch:SW_SP3T","JP Library:SP3T CL-SB-13B-11T","~","","","",""
+"9","1","SW3","SW_DPDT_x2","Switch:SW_DPDT_x2","JP Library:DPDT CL-SB-22B-12T","~","","","",""
